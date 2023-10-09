@@ -1,3 +1,3 @@
-# SQL Portfolio - Citibike
+# SQL Portfolio 
 
-This is the citibike Dataset that was sourced from the web, and the sql code shows the various kinds of problems that were solved, using various sql functions.
+This repository shows the various types of projects and problems that were solved using SQL Querying and data manipulation techniques.
